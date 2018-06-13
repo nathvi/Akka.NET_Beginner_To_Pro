@@ -4,4 +4,6 @@ Learn the **_why_** and the **_how_** of Akka.Net from the ground up by creating
 
 # Table of Contents
 
-The game
+What in Tarnation is Akka.Net?
+
+The Game
