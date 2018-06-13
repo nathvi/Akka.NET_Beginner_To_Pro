@@ -1,6 +1,6 @@
 # What in Tarnation is Akka.NET?
 Akka.Net is a .NET port of the original Akka project. It hopes to cure cancer, AIDS, and all economic woes.
-As an ancillary function, Akka.Net hopes to provide a unified framework to make distributed computing easier.
+As an ancillary function, Akka.Net hopes to provide a unified framework to make distributed computing easier by implementing an _Actor Model_ on the .NET framework.
 
 # A Brief History of Akka and the Actor Concept
 As stated before, Akka.Net is based on the Java Akka project. (ewww Java)
