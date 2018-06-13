@@ -4,3 +4,4 @@ As an ancillary function, Akka.Net hopes to provide a unified framework to make 
 
 # Why should I care about Akka.NET?
 You want humanity to continue
+You do distributed computation _and_ you aren't a masochist.
