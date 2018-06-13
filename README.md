@@ -1,2 +1,2 @@
-# Akka.NET_Beginner_To_Pro
+# Akka.NET Beginner To Pro
 From A to Z in Akka.NET
