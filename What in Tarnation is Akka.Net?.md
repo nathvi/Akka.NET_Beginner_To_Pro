@@ -4,7 +4,7 @@ As an ancillary function, Akka.Net hopes to provide a unified framework to make 
 
 # A Brief History of Akka and the Actor Concept
 As stated before, Akka.Net is based on the Java Akka project. (ewww Java)
-What then, was the purpose of the original purpose for the Akka project? To implement the idea an _Actor System_
+What then, was the purpose of the original purpose for the Akka project? To implement the idea an _Actor Model_ on the JVM.
 
 # Why should I care about Akka.NET?
 You want humanity to continue
